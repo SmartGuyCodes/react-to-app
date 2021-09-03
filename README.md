@@ -1,6 +1,6 @@
 #React ToDo App
 
-I will creating a React todo app using REST API. 
+I will be creating a React todo app using REST API. 
 
 ##Backend
 
