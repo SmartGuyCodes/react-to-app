@@ -47,7 +47,7 @@ export default class Header extends Component {
           <Toolbar
             style={{ display: " flex", justifyContent: "space-between" }}
           >
-            <Typography variant="h6">Todo App</Typography>
+            <Typography variant="h6">TruDo</Typography>
             <Button onClick={this.todoLogout}>Logout</Button>
           </Toolbar>
         </AppBar>
